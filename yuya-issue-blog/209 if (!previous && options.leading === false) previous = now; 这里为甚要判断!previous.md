@@ -1,0 +1,1 @@
+if (!previous && options.leading === false) previous = now; 这里为甚要判断!previous

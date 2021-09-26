@@ -1,0 +1,1 @@
+原生的bind方法生成的函数好像没有prototype属性
